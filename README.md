@@ -14,7 +14,7 @@ I combine **software, hardware, and AI** to solve real-world problems.
 ---
 
 ## 🚀 Notable Projects
-- **[Shambassist](#)** – IoT system for smart farming (soil health, weather, plant disease detection using AI) (https://shambassist.com) 
+- **[Shambassist](https://shambassist.com)** – IoT system for smart farming (soil health, weather, plant disease detection using AI)
 - ERP modules & healthcare system integrations  
 - Mobile & web applications for agriculture, health, and business efficiency  
 
