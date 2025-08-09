@@ -15,8 +15,9 @@ I combine **software, hardware, and AI** to solve real-world problems.
 
 ## 🚀 Notable Projects
 - **[Shambassist](https://shambassist.com)** – IoT system for smart farming (soil health, weather, plant disease detection using AI)
-- ERP modules & healthcare system integrations  
-- Mobile & web applications for agriculture, health, and business efficiency  
+- **[eHaho](https://ehaho.rw)** – Rwandan agri-ecommerce platform connecting farmers to buyers, service providers, and real-time pricing data  
+- **[e-Ubuzima](https://ebuzima.moh.gov.rw)** – Rwanda’s national digital health system for electronic patient records, facility search, and appointment booking  
+- etc 
 
 ---
 
