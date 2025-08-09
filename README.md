@@ -34,7 +34,8 @@ I combine **software, hardware, and AI** to solve real-world problems.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/isaac-ntabwoba)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aizokiniisaac)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iraasaac@gmail.com)
-[![X](https://img.shields.io/twitter/url?logo=gmail&logoColor=white)](https://x.com/AizokiniIsaac)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/aizo_kini_isaac)  
+[![X](https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white)](https://x.com/AizokiniIsaac)  
 
 
 ---
